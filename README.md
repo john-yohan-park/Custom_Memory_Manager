@@ -1,4 +1,4 @@
-# pa01-memmgr-johnSMUpark
+# Custom Memory Manager
 Custom Memory Manager
 - Global overload of new, new[], delete, delete[]
 - Uses First Fit Algorithm
